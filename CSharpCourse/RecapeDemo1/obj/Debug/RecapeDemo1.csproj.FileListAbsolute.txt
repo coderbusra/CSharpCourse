@@ -1,0 +1,10 @@
+D:\C#-Course\CSharpYoutubeCourse\RecapeDemo1\bin\Debug\RecapeDemo1.exe.config
+D:\C#-Course\CSharpYoutubeCourse\RecapeDemo1\bin\Debug\RecapeDemo1.exe
+D:\C#-Course\CSharpYoutubeCourse\RecapeDemo1\bin\Debug\RecapeDemo1.pdb
+D:\C#-Course\CSharpYoutubeCourse\RecapeDemo1\obj\Debug\RecapeDemo1.csproj.AssemblyReference.cache
+D:\C#-Course\CSharpYoutubeCourse\RecapeDemo1\obj\Debug\RecapeDemo1.Properties.Resources.resources
+D:\C#-Course\CSharpYoutubeCourse\RecapeDemo1\obj\Debug\RecapeDemo1.csproj.GenerateResource.cache
+D:\C#-Course\CSharpYoutubeCourse\RecapeDemo1\obj\Debug\RecapeDemo1.csproj.CoreCompileInputs.cache
+D:\C#-Course\CSharpYoutubeCourse\RecapeDemo1\obj\Debug\RecapeDemo1.exe
+D:\C#-Course\CSharpYoutubeCourse\RecapeDemo1\obj\Debug\RecapeDemo1.pdb
+D:\C#-Course\CSharpYoutubeCourse\RecapeDemo1\obj\Debug\RecapDemo1.Form1.resources

@@ -1,0 +1,7 @@
+D:\C#-Course\CSharpYoutubeCourse\Methods\bin\Debug\Methods.exe.config
+D:\C#-Course\CSharpYoutubeCourse\Methods\bin\Debug\Methods.exe
+D:\C#-Course\CSharpYoutubeCourse\Methods\bin\Debug\Methods.pdb
+D:\C#-Course\CSharpYoutubeCourse\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+D:\C#-Course\CSharpYoutubeCourse\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\C#-Course\CSharpYoutubeCourse\Methods\obj\Debug\Methods.exe
+D:\C#-Course\CSharpYoutubeCourse\Methods\obj\Debug\Methods.pdb

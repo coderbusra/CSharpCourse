@@ -1,0 +1,7 @@
+D:\C#-Course\CSharpYoutubeCourse\Conditionals\bin\Debug\Conditionals.exe.config
+D:\C#-Course\CSharpYoutubeCourse\Conditionals\bin\Debug\Conditionals.exe
+D:\C#-Course\CSharpYoutubeCourse\Conditionals\bin\Debug\Conditionals.pdb
+D:\C#-Course\CSharpYoutubeCourse\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+D:\C#-Course\CSharpYoutubeCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+D:\C#-Course\CSharpYoutubeCourse\Conditionals\obj\Debug\Conditionals.exe
+D:\C#-Course\CSharpYoutubeCourse\Conditionals\obj\Debug\Conditionals.pdb

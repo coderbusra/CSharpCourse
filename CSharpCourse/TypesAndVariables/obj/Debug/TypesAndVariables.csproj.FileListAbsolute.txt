@@ -1,0 +1,7 @@
+D:\C#-Course\CSharpYoutubeCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe.config
+D:\C#-Course\CSharpYoutubeCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe
+D:\C#-Course\CSharpYoutubeCourse\TypesAndVariables\bin\Debug\TypesAndVariables.pdb
+D:\C#-Course\CSharpYoutubeCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.AssemblyReference.cache
+D:\C#-Course\CSharpYoutubeCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.CoreCompileInputs.cache
+D:\C#-Course\CSharpYoutubeCourse\TypesAndVariables\obj\Debug\TypesAndVariables.exe
+D:\C#-Course\CSharpYoutubeCourse\TypesAndVariables\obj\Debug\TypesAndVariables.pdb

@@ -1,0 +1,7 @@
+D:\C#-Course\CSharpYoutubeCourse\Interfaces\bin\Debug\Interfaces.exe.config
+D:\C#-Course\CSharpYoutubeCourse\Interfaces\bin\Debug\Interfaces.exe
+D:\C#-Course\CSharpYoutubeCourse\Interfaces\bin\Debug\Interfaces.pdb
+D:\C#-Course\CSharpYoutubeCourse\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+D:\C#-Course\CSharpYoutubeCourse\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\C#-Course\CSharpYoutubeCourse\Interfaces\obj\Debug\Interfaces.exe
+D:\C#-Course\CSharpYoutubeCourse\Interfaces\obj\Debug\Interfaces.pdb

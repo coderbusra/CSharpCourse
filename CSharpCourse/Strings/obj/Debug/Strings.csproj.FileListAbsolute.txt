@@ -1,0 +1,7 @@
+D:\C#-Course\CSharpYoutubeCourse\Strings\bin\Debug\Strings.exe.config
+D:\C#-Course\CSharpYoutubeCourse\Strings\bin\Debug\Strings.exe
+D:\C#-Course\CSharpYoutubeCourse\Strings\bin\Debug\Strings.pdb
+D:\C#-Course\CSharpYoutubeCourse\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+D:\C#-Course\CSharpYoutubeCourse\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+D:\C#-Course\CSharpYoutubeCourse\Strings\obj\Debug\Strings.exe
+D:\C#-Course\CSharpYoutubeCourse\Strings\obj\Debug\Strings.pdb
