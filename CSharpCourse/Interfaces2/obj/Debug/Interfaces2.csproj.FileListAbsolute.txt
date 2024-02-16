@@ -1,0 +1,7 @@
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\Interfaces2\bin\Debug\Interfaces2.exe.config
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\Interfaces2\bin\Debug\Interfaces2.exe
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\Interfaces2\bin\Debug\Interfaces2.pdb
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\Interfaces2\obj\Debug\Interfaces2.csproj.AssemblyReference.cache
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\Interfaces2\obj\Debug\Interfaces2.csproj.CoreCompileInputs.cache
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\Interfaces2\obj\Debug\Interfaces2.exe
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\Interfaces2\obj\Debug\Interfaces2.pdb
