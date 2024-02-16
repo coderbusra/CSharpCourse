@@ -1,0 +1,7 @@
+D:\C#-Course\CSharpCourse\Constructors\bin\Debug\Constructors.exe.config
+D:\C#-Course\CSharpCourse\Constructors\bin\Debug\Constructors.exe
+D:\C#-Course\CSharpCourse\Constructors\bin\Debug\Constructors.pdb
+D:\C#-Course\CSharpCourse\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+D:\C#-Course\CSharpCourse\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+D:\C#-Course\CSharpCourse\Constructors\obj\Debug\Constructors.exe
+D:\C#-Course\CSharpCourse\Constructors\obj\Debug\Constructors.pdb
