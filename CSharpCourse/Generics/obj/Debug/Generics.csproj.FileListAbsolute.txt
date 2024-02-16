@@ -1,0 +1,7 @@
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\Generics\bin\Debug\Generics.exe.config
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\Generics\bin\Debug\Generics.exe
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\Generics\bin\Debug\Generics.pdb
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\Generics\obj\Debug\Generics.exe
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\Generics\obj\Debug\Generics.pdb

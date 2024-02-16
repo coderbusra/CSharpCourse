@@ -1,0 +1,7 @@
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\LinqProject\bin\Debug\LinqProject.exe.config
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\LinqProject\bin\Debug\LinqProject.exe
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\LinqProject\bin\Debug\LinqProject.pdb
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\LinqProject\obj\Debug\LinqProject.csproj.AssemblyReference.cache
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\LinqProject\obj\Debug\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\LinqProject\obj\Debug\LinqProject.exe
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\LinqProject\obj\Debug\LinqProject.pdb

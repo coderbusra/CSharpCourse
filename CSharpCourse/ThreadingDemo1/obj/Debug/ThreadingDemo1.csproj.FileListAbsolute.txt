@@ -1,0 +1,10 @@
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\ThreadingDemo1\bin\Debug\ThreadingDemo1.exe.config
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\ThreadingDemo1\bin\Debug\ThreadingDemo1.exe
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\ThreadingDemo1\bin\Debug\ThreadingDemo1.pdb
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\ThreadingDemo1\obj\Debug\ThreadingDemo1.csproj.AssemblyReference.cache
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\ThreadingDemo1\obj\Debug\ThreadingDemo1.Form1.resources
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\ThreadingDemo1\obj\Debug\ThreadingDemo1.Properties.Resources.resources
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\ThreadingDemo1\obj\Debug\ThreadingDemo1.csproj.GenerateResource.cache
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\ThreadingDemo1\obj\Debug\ThreadingDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\ThreadingDemo1\obj\Debug\ThreadingDemo1.exe
+C:\Users\Büşra\OneDrive\Belgeler\CSharpCourse\CSharpCourse\ThreadingDemo1\obj\Debug\ThreadingDemo1.pdb
