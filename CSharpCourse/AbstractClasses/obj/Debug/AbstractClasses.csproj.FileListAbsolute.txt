@@ -1,0 +1,7 @@
+D:\C#-BTK-AKADEMİ\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+D:\C#-BTK-AKADEMİ\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe
+D:\C#-BTK-AKADEMİ\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.pdb
+D:\C#-BTK-AKADEMİ\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+D:\C#-BTK-AKADEMİ\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\C#-BTK-AKADEMİ\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.exe
+D:\C#-BTK-AKADEMİ\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.pdb
